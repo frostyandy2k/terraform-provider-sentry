@@ -17,6 +17,8 @@ See the [the Provider Configuration page of the Terraform documentation](https:/
 
 Pre-compiled binaries are available from the [Releases](https://github.com/jianyuan/terraform-provider-sentry/releases) page.
 
+Download stuff... and put it here ...
+
 ## Development
 
 ### Test
